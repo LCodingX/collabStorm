@@ -7,6 +7,7 @@ import {BrowserRouter as Router, Link, Route, Redirect} from "react-router-dom"
 import axios from "axios"
 import data from "../data/hello.json"
 import Project from "./Project.js"
+import Account from "./Account"
 class App extends React.Component {
   onLogin = (e) => {
     axios.post("/api/auth/login", {
@@ -38,7 +39,8 @@ render() {
         <Router>
             <Navbar {...data}/>
             <Route exact path="/" component={Home} />
-            {/*<Route exact path="/project/1" render={(props) => <Project {...props} data={...data}/>} />*/}
+            <Route exact path="/account/1" render={(props) => <Account {...props} {...data} />} />
+            <Route exact path="/project/1" render={(props) => <Project {...props} {...data} />} />
         </Router>
     )
   }

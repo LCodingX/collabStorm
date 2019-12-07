@@ -2,4 +2,7 @@
 .general-header {
     text-align: center;
     font-family: "Roboto", "sans-seriff";
+    height: auto;
+    width: auto;
+    font-size: 20px
 }

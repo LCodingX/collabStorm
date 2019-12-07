@@ -8,7 +8,7 @@ class Navbar extends React.Component {
             <Fragment>
                 <div className="navbar">
                     <img src={logo} className="logo" alt="logo"/>
-                    <Link to="/account" >{this.props.username}</Link>
+                    <Link to="/account/1" >{this.props.username}</Link>
                 </div>
             </Fragment>
         )
