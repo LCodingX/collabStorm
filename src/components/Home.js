@@ -5,22 +5,7 @@ class Home extends React.Component {
     render() {
         return (
             <div className="Home">
-                <div className="content-section-1">
-                    <Header color="#ff5e5e"
-                    header="Create a storm - designed for startups, existing products that need a new feature, and school projects HI SPENCER" />
-                </div>
-                <div className="content-section-2">
-                    <Header color="#26262F"
-                     header="Get your team excited about your ideas by fully advertising your thoughts before they even see it" />
-                </div>
-                <div className="content-section-3">
-                    <Header  color="#ffe0c8"
-                    header="Accomodate for different types of thinkers, and different sizes of teams" />
-                </div>
-                <div className="content-section-4">
-                    <Header  color="#735046"
-                    header="Continuously save your document online so your team can work faster and smarter" />
-                </div>
+                <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTNXdvs9ixtPkRWTAS6heLg4Gn5ANrd20lvR-CPetbl_RgciK7tLxD5cTntBRc8AHop8-D9sySz8dCM/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
             </div>
         )
     }
