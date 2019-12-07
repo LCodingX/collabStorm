@@ -3,7 +3,7 @@
     "password": "email",
     "email": "johndoe@gmail.com",
     "project": {
-        "team": ["Leo Dung", "Spencer racer", "Josh Brockman"],
+        "team": ["Leo Dung", "Spencer shaffer", "Josh Brockman"],
         "stage1": {
             "problem": "People do not fully think through their ideas when they are pitching them to a team, instead they give them a competitor, and a feature that they would add to the product. This results in the team not accepting an idea, or just a team that is not motivated with a certain product or feature. Similarly, when a team member suggests an idea to add to the service, they also give not enough information, resulting in a worse product with worse features. Also, when the team sees a competitor with somewhat similar features, they immediately get scared off.",
             "solution": "Collabstorm is a website that forces innovators to fully think out the problem they are solving, and the solution that they propose to fully solve it. It also has a feature decision period where individual people will come up with features, in which their features cannot be altered by team members. When developing a feature, a team member will be asked questions like 'how does this feature help solve the problem?', 'what other competitors offer this feature?', 'why is this feature necessary?'. Some examples of how it would do this is are putting minimum character limits for the questions. CollabStorm will not get team members to research for competitors until after they are on board with the idea. Then, when they are brainstorming the features, the owner of the project will research the competitors and their features, so that the team can decide what unique features to add.",
