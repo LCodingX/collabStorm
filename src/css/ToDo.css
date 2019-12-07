@@ -9,7 +9,7 @@
     height: auto;
     display: flex;
     justify-content: space-around;
-    min-height: 500px;
+    min-height: 700px;
 }
 .to-do-part {
     width:27%;
@@ -43,7 +43,7 @@
     color: orange;
 }
 .card {
-    height: 75px;
+    max-height: 125px;
     width: 90%;
     
     text-align: center;

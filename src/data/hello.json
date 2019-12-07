@@ -50,8 +50,8 @@
             ]
         },
         "stage3": {
-            "done": ["Building AWS Amplify Skeleton", "Creating fields for writing stuff", "Create Hardcoded Data"],
-            "to_do": ["make auth api", "make auto-rendering across teams"],
+            "done": ["Building AWS Amplify Serverless website connected to a domain", "Creating fields for editing the data", "Create Hardcoded Data"],
+            "to_do": ["make auth api cross-computers", "make auto-rendering across teams", "make it so a project creator can invite their team with a link key"],
             "in_progress": ["Winning hackathon"]
         }
         
