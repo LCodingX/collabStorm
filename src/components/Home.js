@@ -7,7 +7,7 @@ class Home extends React.Component {
             <div className="Home">
                 <div className="content-section-1">
                     <Header color="#ff5e5e"
-                    header="Create a storm - designed for startups, existing products that need a new feature, and school projects" />
+                    header="Create a storm - designed for startups, existing products that need a new feature, and school projects HI SPENCER" />
                 </div>
                 <div className="content-section-2">
                     <Header color="#26262F"
